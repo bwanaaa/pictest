@@ -24,8 +24,8 @@ body {
 }
 
 .gallery-cell {
-  width: 70%;
-  height: 200px;
+  width:80%;
+  height: width;
   /* flex-box, center image in cell */
   display: -webkit-box;
   display: -webkit-flex;
